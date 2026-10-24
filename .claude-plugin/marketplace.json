@@ -1,0 +1,5 @@
+{
+  "name": "claude-stats-heatmap",
+  "owner": { "name": "knetic0" },
+  "plugins": [{ "name": "stats-heatmap", "source": "./" }]
+}
