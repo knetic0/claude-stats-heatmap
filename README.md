@@ -1,5 +1,7 @@
 # stats-heatmap
 
+![The /heatmap pane in Claude Code: a year of daily token use as orange cells, with metric buttons above and totals, streaks, busiest day and top model below](.github/assets/heatmap.png)
+
 A Claude Code mod that adds a stats pane with a calendar-style heatmap of your activity, GitHub contribution-graph style.
 
 Run `/heatmap` to open it. The pane shows:
