@@ -4,6 +4,5 @@
   "description": "A stats pane with a calendar-style heatmap of your Claude Code activity",
   "author": { "name": "knetic0" },
   "license": "MIT",
-  "repository": "https://github.com/knetic0/claude-stats-heatmap",
-  "types": "./types/index.d.ts"
+  "repository": "https://github.com/knetic0/claude-stats-heatmap"
 }
